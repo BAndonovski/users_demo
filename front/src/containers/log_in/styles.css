@@ -1,0 +1,18 @@
+.log_in_title {
+    font-size: 24px;
+    color: #EE004D;
+    padding-bottom: 40px;
+    text-align: center
+}
+.input_box {
+    display: flex;
+    flex-direction: column;
+}
+.register_here {
+    color: darkgrey;
+    font-size: 12;
+    margin-top: 20px;
+}
+.register_here span  {
+    color: #EE004D
+}
